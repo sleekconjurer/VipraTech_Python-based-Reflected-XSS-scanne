@@ -80,4 +80,4 @@ A more practical approach for modern security engineering is **Tool Orchestratio
 
 ### ⏱️ Time Spent
 
-**Total Hours Spent:** [X] hours (Please fill this in before submission.)
+**Total Hours Spent:** 4 hours
